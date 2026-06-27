@@ -1,0 +1,6 @@
+{
+  "name": "Debt Manager",
+  "description": "Debt management workflow app designed to track account types, interest rates, and facilitate automated payment reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
